@@ -28,6 +28,7 @@ import github from "./tech/github.png";
 import indyimaging from "./tech/indyimaging.png";
 import ivytech from "./ivytech.png";
 import aws from "./aws.png";
+import siemensenergy from "./siemensenergy.png";
 
 import tripguide from "./tripguide.png";
 import unitymario from "./unitymario.png";
@@ -65,4 +66,5 @@ export {
   pythonproject,
   ivytech,
   aws,
+  siemensenergy,
 };
