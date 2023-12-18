@@ -25,7 +25,8 @@ import {
     unitymario,
     pythonproject,
     ivytech,
-    aws
+    aws,
+    siemensenergy // 12-18-2023
   } from "../assets";
   
   export const navLinks = [
@@ -183,6 +184,21 @@ import {
         "Partner with diverse teams to troubleshoot and rectify systemic issues impacting both internal and supplier relations.",
       ],
     },
+      // 12-18-2023
+    {
+      title: "Procurement Professional",
+      company_name: "Siemens Energy",
+      icon: siemensenergy,
+      iconBg: "#E6DEDD",
+      date: "September 2023 - PRESENT",
+      points: [
+        "Implemented long-term commodity strategies using Oracle ERP and MRP software, ensuring cost-efficiency and compliance with procurement guidelines.",
+        "Skilled in conducting negotiations and generating significant savings, leveraging tools like Power BI and Teams for transparent result documentation.",
+        "Managed supplier processes (qualification, evaluation, development) and fostered strong internal customer relations for early project involvement.",
+        "Cultivated vendor relationships within an FDA-regulated environment, aligning with strict regulatory standards and company policies.",
+      ],
+    }, // 12-18-2023
+      
   ];
   
   const testimonials = [
