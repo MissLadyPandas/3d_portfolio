@@ -58,7 +58,7 @@ import {
       icon: backend,
     },
     {
-      title: "Data Analys",
+      title: "Data Analyst",
       icon: creator,
     },
   ];
